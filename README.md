@@ -1,5 +1,5 @@
 # Neural Networks for Dengue Fever Prediction
 
-start [here](Example_Neural Network for Dengue Prediction_Brazil cities.ipynb): We use a simple feed-forward neural network architecture, the multilayer perceptron, to predict Dengue in three Brazilian cities.
+start [here](https://github.com/KRoster/NN4Dengue/blob/main/Example_Neural%20Network%20for%20Dengue%20Prediction_Brazil%20cities.ipynb): We use a simple feed-forward neural network architecture, the multilayer perceptron, to predict Dengue in three Brazilian cities.
 
-In [this](Recurrent Neural Networks.ipynb) notebook, we also implement a popular recurrent neural network architecture called Long Short-Term Memory (LSTM). 
+In [this notebook](https://github.com/KRoster/NN4Dengue/blob/main/Recurrent%20Neural%20Networks.ipynb), we also implement a popular recurrent neural network architecture called Long Short-Term Memory (LSTM). 
